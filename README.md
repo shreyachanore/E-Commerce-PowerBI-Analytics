@@ -118,10 +118,9 @@ Supports **product strategy**, inventory planning, and customer retention decisi
 ![Executive Overview](Screenshots/Executive_Overview.png.png)
 
 ### Operations & Customer Analysis
-![Operations & Customer Analysis](Screenshots/Operations_Customer_Analysis.png)
-
+![Operations & Customer Analysis](Screenshots/Operations_Customer_Analysis.png.png)
 ### Product & Customer Behavior
-![Product & Customer Behavior](Screenshots/Product_Customer_Behavior.png)
+![Product & Customer Behavior](Screenshots/Product_Customer_Behavior.png.png)
 
 ---
 
