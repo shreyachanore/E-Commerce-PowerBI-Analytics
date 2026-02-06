@@ -115,7 +115,7 @@ Supports **product strategy**, inventory planning, and customer retention decisi
 ##  Dashboard Preview
 
 ### Executive Overview
-![Executive Overview]Screenshots/Executive_Overview.png.png
+![Executive Overview](Screenshots/Executive_Overview.png.png)
 
 ### Operations & Customer Analysis
 ![Operations & Customer Analysis](Screenshots/Operations_Customer_Analysis.png)
