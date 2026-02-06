@@ -12,19 +12,18 @@ The analysis focuses on solving real-world business problems such as:
 - Supporting data-driven decision-making
 
 ---
-
 ##  Table of Contents
-- [Project Overview](#-project-overview)
-- [Tools Used](#-tools-used)
-- [Dataset Information](#-dataset-information)
-- [Data Preparation](#-data-preparation)
-- [Dashboard Pages & Analysis](#-dashboard-pages--analysis)
-- [Key Business Insights](#-key-business-insights)
-- [Dashboard Preview](#-dashboard-preview)
-- [Project Structure](#-project-structure)
-- [How to Use](#-how-to-use)
-- [Conclusion](#-conclusion)
-- [Author](#-author)
+- [Project Overview](#project-overview)
+- [Tools Used](#tools-used)
+- [Dataset Information](#dataset-information)
+- [Data Preparation](#data-preparation)
+- [Dashboard Analysis](#dashboard-analysis)
+- [Key Insights](#key-insights)
+- [Dashboard Preview](#dashboard-preview)
+- [Project Structure](#project-structure)
+- [How to Use](#how-to-use)
+- [Conclusion](#conclusion)
+
 
 ---
 
